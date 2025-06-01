@@ -1,27 +1,39 @@
 # Demo-Dokumente für ChatGPT Prompt-Bibliothek
 
-Diese Repository enthält Beispieldokumente, die als Referenzmaterial für die "Prompt-Bibliothek: ChatGPT für die Arbeitswelt nutzen" dienen.
+Dieses Repository enthält Beispieldokumente, die als Referenzmaterial für die **"Prompt-Bibliothek: ChatGPT für die Arbeitswelt nutzen"** dienen.
 
 ## Struktur
 
 ```
-📁 Demo-Dokumente/
-├── 📁 E-Mails/
-│   ├── Corporate Wording.docx
-│   ├── email_verlauf.docx
-│   ├── freundliche_antwort.docx
-│   └── inbox_eine_woche.docx
-├── 📁 Finanzen + HR/
-│   ├── Rückgabeanfrage_Kulanz_LisaBergmann.docx
-│   └── Rückgaberichtlinie_BrightVision.docx
-├── 📁 Kundenservice/
-│   ├── Kundenanfrage_Rückgabe_Fernseher.docx
-│   └── Rückgaberichtlinie_BrightVision.docx
-├── 📁 Marketing/
-│   └── Agentur-Briefing-Vorlage.docx
-├── 📁 Marktforschung/
-└── 📁 Produktentwicklung/
+📁 Repository/
+├── 📁 Demo-Dokumente.zip/
+│   ├── 📄 Prompt-Bibliothek_ChatGPT für die Arbeitswelt nutzen.docx
+│   ├── 📁 E-Mails/
+│   │   ├── 📄 Corporate Wording.docx
+│   │   ├── 📄 email_verlauf.docx
+│   │   ├── 📄 freundliche_antwort.docx
+│   │   └── 📄 inbox_eine_woche.docx
+│   ├── 📁 Finanzen + HR/
+│   │   ├── 📄 Rückgabeanfrage_Kulanz_LisaBergmann.docx
+│   │   └── 📄 Rückgaberichtlinie_BrightVision.docx
+│   ├── 📁 Kundenservice/
+│   │   ├── 📄 Kundenanfrage_Rückgabe_Fernseher.docx
+│   │   └── 📄 Rückgaberichtlinie_BrightVision.docx
+│   ├── 📁 Marketing/
+│   │   └── 📄 Agentur-Briefing-Vorlage.docx
+│   ├── 📁 Marktforschung/
+│   └── 📁 Produktentwicklung/
+├── 📄 README.md
 ```
+
+## Downloads
+
+- Nach dem Klick auf den Download Link kommen sie auf diese Seite (s. u.). Klicken sie dort auf das **Download Symbol**: [DOWNLOAD DEMO DOKUMENTE](Demo-Dokumente.zip)
+ 
+![Demo Dokumente](assets/Screenshot_download_demodokumente.png)
+
+Eine komprimierte Zip-Datei wird herunter geladen. Entpacken Sie diese und sie haben alles was Sie benötigen, um verschiedene Prompts je nach Anwendungsbereich zu testen - inkl. der nötigen Musterdateien.
+
 
 ## Inhalt
 
@@ -38,18 +50,7 @@ Diese Repository enthält Beispieldokumente aus verschiedenen Geschäftsbereiche
 
 Die Dokumente in diesem Repository dienen als Beispiele für die Anwendung der Prompts aus der "Prompt-Bibliothek: ChatGPT für die Arbeitswelt nutzen". Sie können als Referenz verwendet werden, um die praktische Anwendung der Prompts besser zu verstehen.
 
-## Downloads
-
-- `Demo-Dokumente.zip` - Komprimierte Version aller Beispieldokumente
-[DOWNLOAD DEMO DOKUMENTE](Demo-Dokumente.zip)
- 
-![Demo Dokumente](assets/Screenshot_download_demodokumente.png)
-- `Prompt-Bibliothek_ChatGPT für die Arbeitswelt nutzen.docx` - Hauptdokument mit der Prompt-Bibliothek
-[DOWNLOAD PROMPT BIBLIOTHEK](Prompt-Bibliothek_ChatGPT%20für%20die%20Arbeitswelt%20nutzen.docx)
-
-![ChatGPT Prompt-Bibliothek](assets/Screenshot_download_word.doc.png)
-
 
 ## Hinweis
 
-Alle enthaltenen Dokumente sind Beispiele und dienen ausschließlich Demonstrationszwecken.
+Alle enthaltenen Dokumente sind Beispiele (Mock-up Dokumente) und dienen ausschließlich Demonstrationszwecken!
