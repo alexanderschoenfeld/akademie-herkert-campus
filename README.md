@@ -38,13 +38,17 @@ Diese Repository enthält Beispieldokumente aus verschiedenen Geschäftsbereiche
 
 Die Dokumente in diesem Repository dienen als Beispiele für die Anwendung der Prompts aus der "Prompt-Bibliothek: ChatGPT für die Arbeitswelt nutzen". Sie können als Referenz verwendet werden, um die praktische Anwendung der Prompts besser zu verstehen.
 
-## Dateien
-
-## Dateien
+## Downloads
 
 - `Demo-Dokumente.zip` - Komprimierte Version aller Beispieldokumente
-- [LINK](Prompt-Bibliothek_ChatGPT%20für%20die%20Arbeitswelt%20nutzen.docx) 
-`Prompt-Bibliothek_ChatGPT für die Arbeitswelt nutzen.docx` - Hauptdokument mit der Prompt-Bibliothek
+[DOWNLOAD DEMO DOKUMENTE](Demo-Dokumente.zip)
+ 
+![Demo Dokumente](assets/Screenshot_download_demodokumente.png)
+- `Prompt-Bibliothek_ChatGPT für die Arbeitswelt nutzen.docx` - Hauptdokument mit der Prompt-Bibliothek
+[DOWNLOAD PROMPT BIBLIOTHEK](Prompt-Bibliothek_ChatGPT%20für%20die%20Arbeitswelt%20nutzen.docx)
+
+![ChatGPT Prompt-Bibliothek](assets/Screenshot_download_word.doc.png)
+
 
 ## Hinweis
 
