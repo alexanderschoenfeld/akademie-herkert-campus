@@ -1,0 +1,7 @@
+| ID | Beschreibung                         | Download                                   |
+|----|-------------------------------------|--------------------------------------------|
+| 1  | Was ist der Unterschied zwischen ChatGPT und z. B. GPT 4.0 oder GPT 4o? Bitte kurze Antwort.             |               |
+| 2  | Stelle mir in einer Tabelle alle verfügbaren Features Stand heute auf, die in der ChatGPT free-version vs. der ChatGPT Plus-version enthalten sind.             | |
+| 3  | Kann ChatGPT Microsoft Dokumente wie z. B. Word.docx, PowerPoint.ppt, Outlook.eml o. Excel.xlsx lesen oder erzeugen?                       |          |
+| 4  | Führe in einer Tabelle die wichtigsten Prompting-Techniken auf und betrachte ihren Wert aus mindestens drei Perspektiven (Ergebnis-Qualität, Glaubwürdigkeit und Einsatzzweck bzw. Anwendungsfeld). Fasse die Ergebnisse zusammen und gib schließlich die robusteste, sich wiederholende Kernaussage aus allen Perspektiven wieder. Adressiere auf jeden Fall folgende Techniken: Zero-Shot, Few-Shot, Least-to-Most, Multi-Step, Self-Consistency, Chain-of-Thought, Role Prompt, Frame-Work. Füge noch mindestens zwei weitere hinzu, die unerlässlich sind, um Bandbreite in der täglichen Unternehmensarbeit abzudecken.|          |
+| 5  | Entwirf eine freundliche Antwort auf folgende E-Mail  | [freundliche_antwort.docx](assets\Demo-Dokumente\E-Mails\freundliche_antwort.docx)         |
